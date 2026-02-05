@@ -1,2 +1,4 @@
 this the sever project....
 process the data
+
+create an avatar for user
